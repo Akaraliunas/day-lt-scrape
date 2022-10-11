@@ -7,7 +7,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Day.lt names
- * Description:       Displays list of today’s names from day.lt
+ * Description:       Displays list of today’s names from day.lt. Wordpress plugin.
  * Version:           1.0.1
  * Author:            Aivaras Karaliūnas
  * License:           GPL-2.0+
