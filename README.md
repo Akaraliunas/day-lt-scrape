@@ -3,7 +3,7 @@
 
 == Description ==
 
-Displays list of today’s names from day.lt
+Displays list of today’s names from day.lt. Wordpress plugin.
 
 
 == Usage ==
